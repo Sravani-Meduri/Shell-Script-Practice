@@ -7,3 +7,6 @@ y=2-1
 
 #Division
 z=10/2
+
+#Multiplication
+a=6*7
